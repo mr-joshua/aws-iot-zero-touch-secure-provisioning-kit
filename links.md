@@ -1,0 +1,1 @@
+http://ww1.microchip.com/downloads/en/AppNotes/AN3089-Repurpose-AVR-IoT-WG-to-Connect-to-AWS-00003089A.pdf
